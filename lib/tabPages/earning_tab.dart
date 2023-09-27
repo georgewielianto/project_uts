@@ -12,6 +12,6 @@ class _EarningsTabPageState extends State<EarningsTabPage> {
   Widget build(BuildContext context) {
     return Center(
       child: Text("Earnings"),
-    ); // abcd KONTOL
+    );
   }
 }
